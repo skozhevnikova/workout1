@@ -1,0 +1,35 @@
+---
+title: "workout01-aleksandra-kozhevnikova"
+output: html_document
+---
+
+```{bash}
+
+mkdir workout1
+cd workout1
+git init
+echo "# Workout1" >> README.md
+git add README.md
+git status
+git commit -m "first commit"
+git remote add origin https://github.com/stat133-f18/skozhevnikova/workout1.git
+git remote -v
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
